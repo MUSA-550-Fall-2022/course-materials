@@ -22,7 +22,7 @@ sign up for 1 (or more) 15-minute time slot via the Canvas calendar.
 
 TBD
 
-**Stella:**
+**Kristin:**
 
 TBD
 
@@ -84,9 +84,9 @@ instructions on how to setup your computer for use in this course.
 
 ## Communication Policies
 
-- **Please add the following text into the subject line of emails to us:
-  [MUSA550]**. This will help us make sure we don't miss your email!
-- **We will use Piazza** for questions related to lecture material and assignments.
+- Please add the following text into the subject line of emails to us:
+  [MUSA550]. This will help us make sure we don't miss your email!
+- We will use Piazza for questions related to lecture material and assignments.
 - To prevent code copying, please do not post long, complete code examples to Piazza.
 - Anonymous posting is enabled on Piazza — if you have a question that requires
   a full code example, please use the anonymous feature to post the question.
@@ -102,6 +102,18 @@ Students are allowed (and encouraged!) to collaborate when working through
 lecture materials or assignments. If you work closely with other students,
 please list the members of your group at the top of your assignment.
 
+
+## COVID-19 Policies
+
+Because of the ongoing COVID-19 pandemic, students are asked to wear masks to 
+class to reduce the spread of the virus. Masks are optional, but strongly recommended.
+Thank you for your participation in creating a safe learning environment for 
+all students.
+
+The latest university-wide information related to COVID-19 public health guidance can be found on the
+[University's website](https://coronavirus.upenn.edu/content/public-health-guidance).
+
+
 ## Special Accommodations
 
 There are a number of ongoing situations in the world that may take precedence
@@ -109,11 +121,6 @@ over the course work. If you are experiencing any difficulties outside the
 course, please [contact me](mailto:nhand@design.upenn.edu) and accommodations can be made.
 Similarly, if you are having any difficulties with the course schedule,
 attending lectures, or similar, please let us know.
-
-The latest information related to COVID-19 public health guidance can be found on the
-[University's website](https://coronavirus.upenn.edu/content/public-health-guidance).
-Importantly, students and faculty are required to upload proof of vaccination and wear masks
-while indoors.
 
 ## Academic Integrity
 
