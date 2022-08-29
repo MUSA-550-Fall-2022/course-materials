@@ -1,4 +1,4 @@
-name: Environment Sync
+name: Environment File Sync
 
 on:
   push:
