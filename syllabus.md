@@ -6,7 +6,7 @@ lectures, office hours, assignments, and grading can be found below.
 ## Class
 
 - Monday & Wednesday, 7:00 PM to 8:30 PM
-- [Meyerson Hall, Room 111](https://www.isc-cts.upenn.edu/finder/classroominfo.asp?id=MEYH-B4)
+- [Meyerson Hall, Room B4](https://www.isc-cts.upenn.edu/finder/classroominfo.asp?id=MEYH-B4)
 
 ## Contact Info
 
