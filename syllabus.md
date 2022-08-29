@@ -1,4 +1,4 @@
-<!-- # MUSA 550 - Geospatial Data Science in Python<br>University of Pennsylvania, Stuart Weitzman School of Design
+# MUSA 550 - Geospatial Data Science in Python<br>University of Pennsylvania, Stuart Weitzman School of Design
 
 MUSA 550 will be held on campus during fall 2022. Information regarding
 lectures, office hours, assignments, and grading can be found below.
@@ -6,34 +6,32 @@ lectures, office hours, assignments, and grading can be found below.
 ## Class
 
 - Monday & Wednesday, 7:00 PM to 8:30 PM
-- [Annenberg Hall, Room 111](https://www.isc-cts.upenn.edu/finder/classroominfo.asp?id=anns-111)
+- [Meyerson Hall, Room 111](https://www.isc-cts.upenn.edu/finder/classroominfo.asp?id=MEYH-B4)
 
 ## Contact Info
 
 - **Instructor**: Nick Hand, nhand@design.upenn.edu
-- **Teaching Assistant**: Stella Li, xintianl@design.upenn.edu
+- **Teaching Assistant**: Kristin Chang, krchang@design.upenn.edu 
 
 ## Office Hours
 
-Office hours will be by appointment — you should be able to
+Office hours will be by appointment via Zoom — you should be able to
 sign up for 1 (or more) 15-minute time slot via the Canvas calendar.
 
 **Nick:**
 
-- Tuesday from 6pm - 8pm
-- Remote, via Zoom (link in Canvas calendar invite)
+TBD
 
 **Stella:**
 
-- Monday from 12:30 pm - 2 pm
-- Remote, via Zoom (link in Canvas calendar invite)
+TBD
 
 ## Course Websites
 
-- Main website: [https://musa-550-fall-2021.github.io](https://musa-550-fall-2021.github.io)
-- Github: [https://github.com/MUSA-550-Fall-2021](https://github.com/MUSA-550-Fall-2021)
-- Piazza: [https://piazza.com/upenn/fall2021/musa550/home](https://piazza.com/upenn/fall2021/musa550/home)
-- Canvas: [https://canvas.upenn.edu/courses/1533812](https://canvas.upenn.edu/courses/1533812)
+- Main website: [https://musa-550-fall-2022.github.io](https://musa-550-fall-2022.github.io)
+- Github: [https://github.com/MUSA-550-Fall-2022](https://github.com/MUSA-550-Fall-2022)
+- Piazza: [https://piazza.com/upenn/fall2022/musa550/home](https://piazza.com/upenn/fall2022/musa550/home)
+- Canvas: [https://canvas.upenn.edu/courses/1675163](https://canvas.upenn.edu/courses/1675163)
 
 We will use Piazza for questions related to lecture materials and assignments,
 while Canvas will be used for signing up for office hours and tracking grades.
@@ -62,7 +60,7 @@ the methods used in each step of the data science process (collection, analysis,
 and visualization).
 
 For more details on the final project, see [the Github
-repository](https://github.com/MUSA-550-Fall-2021/final-project).
+repository](https://github.com/MUSA-550-Fall-2022/final-project).
 
 ## Grading
 
@@ -79,7 +77,7 @@ required. Late homework will be accepted but penalized.
 This course relies on use of Python and various related packages and for
 geospatial topics. All software is open-source and freely available. The course
 will require a working installation of Python on your local computer. See the
-[Software Setup Guide](https://musa-550-fall-2021.github.io/resources/setup/) for
+[Software Setup Guide](https://musa-550-fall-2022.github.io/resources/setup/) for
 instructions on how to setup your computer for use in this course.
 
 ## Policies
@@ -121,4 +119,4 @@ while indoors.
 
 Students are expected to be familiar with and comply with Penn’s Code of
 Academic Integrity, which is available in the Pennbook, or online at
-[https://catalog.upenn.edu/pennbook/code-of-academic-integrity](https://catalog.upenn.edu/pennbook/code-of-academic-integrity). -->
+[https://catalog.upenn.edu/pennbook/code-of-academic-integrity](https://catalog.upenn.edu/pennbook/code-of-academic-integrity).
