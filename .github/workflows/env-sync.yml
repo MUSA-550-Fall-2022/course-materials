@@ -3,7 +3,8 @@ name: Environment Sync
 on:
   push:
     paths:
-      - "environment.yml"
+      - environment.yml
+      - .github/workflows/env-sync.yml
 
 jobs:
   env-install:
@@ -12,7 +13,7 @@ jobs:
     strategy:
       matrix:
         os: ["ubuntu-latest", "macos-latest", "windows-latest"]
-        python-version: ["3.8"]
+        python-version: ["3.9"]
     steps:
       - uses: actions/checkout@v2
       - uses: conda-incubator/setup-miniconda@v2
@@ -38,7 +39,7 @@ jobs:
       - uses: conda-incubator/setup-miniconda@v2
         with:
           auto-update-conda: true
-          python-version: 3.8
+          python-version: 3.9
       - name: Setup Anaconda Client
         shell: bash -l {0}
         run: |
@@ -57,7 +58,7 @@ jobs:
     strategy:
       matrix:
         os: ["ubuntu-latest", "macos-latest", "windows-latest"]
-        python-version: ["3.8"]
+        python-version: ["3.9"]
     steps:
       - uses: actions/checkout@v2
       - uses: conda-incubator/setup-miniconda@v2
