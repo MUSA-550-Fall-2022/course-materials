@@ -73,5 +73,5 @@ dependencies:
       - jupyter-panel-proxy==0.1.0
       - jupyter-server-proxy==3.2.1
       - pygeckodriver==0.31.0
-      - carto2gpd==0.1.12
-      - esri2gpd==0.1.13
+      - carto2gpd==1.0.12
+      - esri2gpd==1.0.13
