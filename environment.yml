@@ -69,7 +69,7 @@ dependencies:
   - kneed=0.7.0
   - pip:
       - us==2.0.2
-      - webdriver_manager==3.8.3
+      - git+https://github.com/SergeyPirogov/webdriver_manager@dc73f4a2
       - jupyter-panel-proxy==0.1.0
       - jupyter-server-proxy==3.2.1
       - pygeckodriver==0.31.0
