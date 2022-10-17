@@ -47,7 +47,7 @@ dependencies:
   - intake=0.6.6
   - intake-parquet=0.2.3
   - intake-xarray=0.6.1
-  - dask=2022.8.1
+  - dask=2021.8.1
   - fastparquet=0.8.3
   - python-snappy=0.6.0
   - pyarrow=9.0.0
